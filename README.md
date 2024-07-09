@@ -1,4 +1,4 @@
 # Calculator
-Project dedicated to making a Simple Calculator
+Project dedicated to make a Simple Calculator
 <br>
 Author: Mayank Kumar
